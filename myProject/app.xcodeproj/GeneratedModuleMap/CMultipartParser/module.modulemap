@@ -1,0 +1,4 @@
+module CMultipartParser {
+    umbrella "/Users/blingmorley/Desktop/DevStuff/Other Projects/Vapor/myProject/.build/checkouts/vapor/Sources/CMultipartParser/include"
+    export *
+}

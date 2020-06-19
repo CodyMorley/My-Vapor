@@ -1,0 +1,4 @@
+module CURLParser {
+    umbrella "/Users/blingmorley/Desktop/DevStuff/Other Projects/Vapor/myProject/.build/checkouts/vapor/Sources/CURLParser/include"
+    export *
+}
